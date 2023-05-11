@@ -5,8 +5,9 @@ A simple tank shooting game
 Cài các thư viện pygame, pgzero bằng câu lệnh pip install 
 
 ## Tank
-Một chương trình bắn tank cơ bản sử dụng pygamezero
-Hướng dẫn điều khiển:
+<p>Một chương trình bắn tank cơ bản sử dụng pygamezero</p>
+<p>Hướng dẫn điều khiển:</p>
+
 + Di chuyển bằng các nút mũi tên trên bàn phím
 + Nhấn phím Space để attack
 ## Battle city remake
